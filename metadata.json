@@ -1,0 +1,6 @@
+{
+  "name": "Chạm - Card Game Cho Cặp Đôi",
+  "description": "Web App Card Game lãng mạn cho các cặp đôi: Không gian để lắng nghe và thấu hiểu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
